@@ -1,24 +1,22 @@
-##Derar Course##:
+## 📘 Databricks Data Engineer Associate Preparation Guide
 
-https://www.udemy.com/course/databricks-certified-data-engineer-associate/?couponCode=2021PM20
+### 🎓 Recommended Course
+- **Derar Course on Udemy**  
+  https://www.udemy.com/course/databricks-certified-data-engineer-associate/?couponCode=2021PM20
 
-+ practice tests
+### 📝 Practice Tests
+- **Udemy Practice Exams**  
+  https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/
 
-https://www.udemy.com/course/practice-exams-databricks-certified-data-engineer-associate/
+👉 *Use the Databricks documentation thoroughly for all exam topics.*
 
-use the documentation for the topics covered.
+### 🧪 Additional Mock Exams
+- **ExamTopics Mock Exam** (Highly recommended)  
+  *Buy if you can — it helps a lot.*
 
-buy if you can, an ExamTopics mock exam (it really helps)
+### 🎥 Helpful YouTube Videos
+- https://www.youtube.com/watch?v=9yKecTXW2pY  
+- https://www.youtube.com/watch?v=iXVIPQEGZ9Y  
 
-And check Youtube videos:
-
-https://www.youtube.com/watch?v=9yKecTXW2pY
-
-https://www.youtube.com/watch?v=iXVIPQEGZ9Y
-
-Delta Lake
-
-https://www.youtube.com/watch?v=fkWxiesfrgk
-
-
-
+### ⚡ Delta Lake Resources
+- https://www.youtube.com/watch?v=fkWxiesfrgk
